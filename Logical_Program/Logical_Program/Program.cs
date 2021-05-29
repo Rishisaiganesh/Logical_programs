@@ -8,6 +8,7 @@ namespace Logical_Program
         {
             Console.WriteLine("Welcome to logical programs");
             Console.WriteLine("Press1: TO check Fibonacci");
+            Console.WriteLine("Press2: To check the NUmber is PRIME or NOT");
             int ch = Convert.ToInt32(Console.ReadLine());
             switch (ch)
             {
@@ -15,6 +16,11 @@ namespace Logical_Program
                     Fibonacci fib = new Fibonacci();
                     fib.Check();
                     break;
+                case 2:
+                    PrimeNUmber prime = new PrimeNUmber();
+                    prime.Check();
+                    break;
+
 
 
             }
