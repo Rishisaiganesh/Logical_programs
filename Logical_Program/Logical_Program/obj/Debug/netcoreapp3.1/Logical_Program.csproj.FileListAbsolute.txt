@@ -1,0 +1,13 @@
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\bin\Debug\netcoreapp3.1\Logical_Program.exe
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\bin\Debug\netcoreapp3.1\Logical_Program.deps.json
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\bin\Debug\netcoreapp3.1\Logical_Program.runtimeconfig.json
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\bin\Debug\netcoreapp3.1\Logical_Program.runtimeconfig.dev.json
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\bin\Debug\netcoreapp3.1\Logical_Program.dll
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\bin\Debug\netcoreapp3.1\Logical_Program.pdb
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\obj\Debug\netcoreapp3.1\Logical_Program.csprojAssemblyReference.cache
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\obj\Debug\netcoreapp3.1\Logical_Program.AssemblyInfoInputs.cache
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\obj\Debug\netcoreapp3.1\Logical_Program.AssemblyInfo.cs
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\obj\Debug\netcoreapp3.1\Logical_Program.csproj.CoreCompileInputs.cache
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\obj\Debug\netcoreapp3.1\Logical_Program.dll
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\obj\Debug\netcoreapp3.1\Logical_Program.pdb
+C:\Users\naren\source\Logical-Programs\Logical_Program\Logical_Program\obj\Debug\netcoreapp3.1\Logical_Program.genruntimeconfig.cache
