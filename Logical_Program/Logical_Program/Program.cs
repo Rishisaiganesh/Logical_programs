@@ -9,6 +9,7 @@ namespace Logical_Program
             Console.WriteLine("Welcome to logical programs");
             Console.WriteLine("Press1: TO check Fibonacci");
             Console.WriteLine("Press2: To check the NUmber is PRIME or NOT");
+            Console.WriteLine("Press3: to Reverse the number ");
             int ch = Convert.ToInt32(Console.ReadLine());
             switch (ch)
             {
@@ -19,6 +20,10 @@ namespace Logical_Program
                 case 2:
                     PrimeNUmber prime = new PrimeNUmber();
                     prime.Check();
+                    break;
+                case 3:
+                    ReversingNumber obj = new ReversingNumber();
+                    obj.reverse();
                     break;
 
 
